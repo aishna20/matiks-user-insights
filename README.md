@@ -13,7 +13,7 @@ This project presents an in-depth analysis of user behavior, revenue trends, and
 ##  Dashboard 
 
 ### Revenue Segmentation
-revenue-segmentation.png
+
 
 
 - Showcased revenue patterns by country, subscription tier, and game mode.  
