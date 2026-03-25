@@ -10,7 +10,7 @@ This project presents an in-depth analysis of user behavior, revenue trends, and
 
 ---
 
-## 📊 Dashboard Snapshots  
+## 📊 Dashboard 
 
 ### Revenue Segmentation  
 ![Revenue Segmentation Dashboard](images/revenue-segmentation.png)
@@ -67,8 +67,4 @@ This project presents an in-depth analysis of user behavior, revenue trends, and
 
 ---
 
-## 📫 Let’s Connect  
 
-If you’re interested in my work or would like to discuss internship opportunities:  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/deshmukhgayatri/)
